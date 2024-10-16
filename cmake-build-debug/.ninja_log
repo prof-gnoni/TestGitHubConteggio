@@ -1,0 +1,5 @@
+# ninja log v6
+2	113	7507631357615456	CMakeFiles/TestGitHub.dir/main.c.obj	cd0e8825a18a90ad
+113	245	7507631358718147	TestGitHub.exe	ba2dc90846dbcef
+4	50	7507669118321200	CMakeFiles/TestGitHub.dir/main.c.obj	cd0e8825a18a90ad
+50	106	7507669118782735	TestGitHub.exe	ba2dc90846dbcef
